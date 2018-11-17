@@ -1,6 +1,6 @@
 # absoluteCNVdata
 
-Pre-compiled absolute CNV data, which can be used for package [cnPattern](https://github.com/ShixiangWang/cnPattern) (examples or data mining) and related CNV analysis.
+Pre-compiled absolute CNV data, which can be used for package [VSHunter](https://github.com/ShixiangWang/VSHunter) (examples or data mining) and related CNV analysis.
 
 `.rda` and `.RData` file can read with `load()` function, `.rds` file can read with `readRDS()` function.
 
